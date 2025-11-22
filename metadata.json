@@ -1,0 +1,7 @@
+{
+  "name": "Pet Style Generator",
+  "description": "Transform your pet photos into various artistic styles using AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
